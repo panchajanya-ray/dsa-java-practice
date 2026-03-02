@@ -6,13 +6,8 @@ package arrays;
 
 import java.util.HashMap;
 
-public class Two_Sum {
-
-
-}
-
-class Solution3 {
-    public int[] twoSum(int[] nums, int target) {
+public class TwoSum {
+	public int[] twoSum(int[] nums, int target) {
         HashMap <Integer, Integer> num = new HashMap<>();
         for(int i = 0;i<nums.length;i++)
         {
@@ -21,4 +16,5 @@ class Solution3 {
         }
         return new int[] {-1,-1};
     }
+
 }

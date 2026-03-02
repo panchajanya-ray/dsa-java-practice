@@ -4,16 +4,14 @@
 
 package arrays;
 
-public class Remove_Duplicates_Sorted_Array {
+public class RemoveDuplicatesSortedArray {
 	public static void main(String[] args) {
-	     int result = new Solution5().removeDuplicates(new int[] {-3,-1,0,0,0,3,3});
+	     int result = new RemoveDuplicatesSortedArray().removeDuplicates(new int[] {-3,-1,0,0,0,3,3});
 	     
 	     System.out.println("result = "+result);
 	 }
-}
-
-class Solution5 {
-    public int removeDuplicates(int[] nums) {
+	
+	public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
     
         int i = 0;
@@ -28,4 +26,5 @@ class Solution5 {
         return i + 1;
     }
 }
+
 

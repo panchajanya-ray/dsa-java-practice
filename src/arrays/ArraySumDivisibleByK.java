@@ -4,11 +4,7 @@
 
 package arrays;
 
-public class Array_Sum_Divisible_by_K {
-	
-}
-
-class Solution1 {
+class ArraySumDivisibleByK {
     public int minOperations(int[] nums, int k) {
         for(int i = 1;i<nums.length;i++)
         {

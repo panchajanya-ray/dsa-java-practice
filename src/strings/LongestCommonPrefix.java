@@ -3,15 +3,10 @@
 // Space Complexity: O(1)
 
 
-package arrays;
+package strings;
 
-public class Longest_Common_Prefix {
-
-
-}
-
-class Solution4 {
-    public String longestCommonPrefix(String[] strs) {
+public class LongestCommonPrefix {
+	public String longestCommonPrefix(String[] strs) {
         for(int i=1;i<strs.length;i++)
         {
             while(strs[i].indexOf(strs[0])!=0)

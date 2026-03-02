@@ -2,15 +2,10 @@
 // Time Complexity: O(N + C)
 // Space Complexity: O(1)
 
-package arrays;
+package strings;
 
-public class Two_Letter_Card_Game {
-
-
-}
-
-class Solution2 {
-    public int score(String[] cards, char x) {
+public class TwoLetterCardGame {
+	public int score(String[] cards, char x) {
         int[] cnt1 = new int[26];
         int[] cnt2 = new int[26];
         int both = 0;
@@ -48,4 +43,6 @@ class Solution2 {
 
         return Math.min(total / 2, total - maxFreq);
     }
+
 }
+
