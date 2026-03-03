@@ -28,27 +28,23 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 ---
 
 ## 📂 Repository Structure
-dsa-java-practice
-├── Arrays
-├── Strings
-├── Recursion
-├── LinkedList
-├── StackQueue
-└── Trees
-src<br/>
-|____ arrays<br/>
-|&emsp;&emsp;|____ ArraySumDivisibleByK.java<br/>
-|&emsp;&emsp;|____ RemoveDuplicatesSortedArray.java<br/>
-|&emsp;&emsp;|____ TwoSum.java<br/>
-|____ hashMap<br/>
-|&emsp;&emsp;|____ ContainsDuplicate.java<br/>
-|&emsp;&emsp;|____ FirstUniqueCharacterInAString.ja<br/>
-|&emsp;&emsp;|____ IntersectionOfTwoArrays.java<br/>
-|&emsp;&emsp;|____ MajorityElement.java<br/>
-|&emsp;&emsp;|____ ValidAnagram.java<br/>
-|____ strings<br/>
-|&emsp;&emsp;|____ LongestCommonPrefix.java<br/>
-|&emsp;&emsp;|____ TwoLetterCardGame.java<br/>
+dsa-java-practice<br/>
+|&emsp;&emsp;|── src<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── array<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ArraySumDivisibleByK.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RemoveDuplicatesSortedArray.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSum.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── hashing<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ContainsDuplicate.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FirstUniqueCharacterInAString.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IntersectionOfTwoArrays.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MajorityElement.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── string<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
 
 Each file includes:
 - Clean implementation
@@ -71,9 +67,9 @@ Each file includes:
 
 | Topic        | Problems Solved |
 |--------------|-----------------|
-| Arrays       | 3               |
-| HashMap      | 5               |
-| Strings      | 2               |
+| Array        | 3               |
+| Hashing      | 5               |
+| String       | 2               |
 | Recursion    | 0               |
 | Linked List  | 0               |
 | Stack/Queue  | 0               |
