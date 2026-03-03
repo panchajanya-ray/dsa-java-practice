@@ -2,7 +2,7 @@
 // Time Complexity: O(n + m), O((n + m)^2) if hash crashes {rare}
 // Space Complexity: O(n + m)
 
-package hashMap;
+package hashing;
 
 import java.util.ArrayList;
 import java.util.HashSet;

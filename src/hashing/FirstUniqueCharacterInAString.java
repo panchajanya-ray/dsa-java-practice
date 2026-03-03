@@ -2,7 +2,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-package hashMap;
+package hashing;
 
 // import java.util.HashMap;
 

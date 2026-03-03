@@ -2,7 +2,7 @@
 // Time Complexity: O(N + C)
 // Space Complexity: O(1)
 
-package strings;
+package string;
 
 public class TwoLetterCardGame {
 	public int score(String[] cards, char x) {

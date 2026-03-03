@@ -2,14 +2,9 @@
 // Time Complexity: O(N)
 // Space Complexity: O(1)
 
-package arrays;
+package array;
 
 public class RemoveDuplicatesSortedArray {
-	public static void main(String[] args) {
-	     int result = new RemoveDuplicatesSortedArray().removeDuplicates(new int[] {-3,-1,0,0,0,3,3});
-	     
-	     System.out.println("result = "+result);
-	 }
 	
 	public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;

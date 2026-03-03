@@ -2,7 +2,7 @@
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-package arrays;
+package array;
 
 class ArraySumDivisibleByK {
     public int minOperations(int[] nums, int k) {

@@ -2,7 +2,7 @@
 // Time Complexity: O(N)
 // Space Complexity: O(N)
 
-package arrays;
+package array;
 
 import java.util.HashMap;
 

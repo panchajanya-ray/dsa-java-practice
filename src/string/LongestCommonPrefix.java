@@ -3,7 +3,7 @@
 // Space Complexity: O(1)
 
 
-package strings;
+package string;
 
 public class LongestCommonPrefix {
 	public String longestCommonPrefix(String[] strs) {
