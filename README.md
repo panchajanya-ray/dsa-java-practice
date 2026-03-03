@@ -58,8 +58,8 @@ Each file includes:
 
 | Topic        | Problems Solved |
 |--------------|-----------------|
-| Arrays       | 5               |
-| Strings      | 0               |
+| Arrays       | 3               |
+| Strings      | 2               |
 | Recursion    | 0               |
 | Linked List  | 0               |
 | Stack/Queue  | 0               |
