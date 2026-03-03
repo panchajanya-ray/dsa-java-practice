@@ -35,7 +35,20 @@ dsa-java-practice
 ├── LinkedList
 ├── StackQueue
 └── Trees
-
+src<br/>
+|____ arrays<br/>
+|&emsp;&emsp;|____ ArraySumDivisibleByK.java<br/>
+|&emsp;&emsp;|____ RemoveDuplicatesSortedArray.java<br/>
+|&emsp;&emsp;|____ TwoSum.java<br/>
+|____ hashMap<br/>
+|&emsp;&emsp;|____ ContainsDuplicate.java<br/>
+|&emsp;&emsp;|____ FirstUniqueCharacterInAString.ja<br/>
+|&emsp;&emsp;|____ IntersectionOfTwoArrays.java<br/>
+|&emsp;&emsp;|____ MajorityElement.java<br/>
+|&emsp;&emsp;|____ ValidAnagram.java<br/>
+|____ strings<br/>
+|&emsp;&emsp;|____ LongestCommonPrefix.java<br/>
+|&emsp;&emsp;|____ TwoLetterCardGame.java<br/>
 
 Each file includes:
 - Clean implementation
@@ -59,6 +72,7 @@ Each file includes:
 | Topic        | Problems Solved |
 |--------------|-----------------|
 | Arrays       | 3               |
+| HashMap      | 5               |
 | Strings      | 2               |
 | Recursion    | 0               |
 | Linked List  | 0               |
