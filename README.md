@@ -45,6 +45,13 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── string<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── twoPointer<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BestTimeToBuyAndSellStock.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MoveZeroes.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SquaresOfASortedArray.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSumII.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidPalindrome.java<br/>
 
 Each file includes:
 - Clean implementation
@@ -70,12 +77,12 @@ Each file includes:
 | Array        | 3               |
 | Hashing      | 5               |
 | String       | 2               |
+| Two Pointer  | 5               |
 | Recursion    | 0               |
 | Linked List  | 0               |
 | Stack/Queue  | 0               |
 | Trees        | 0               |
 
-(Updated regularly)
 
 ---
 
