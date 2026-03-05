@@ -41,6 +41,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IntersectionOfTwoArrays.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MajorityElement.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IsomorphicStrings.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RansomNote.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── string<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
@@ -75,7 +77,7 @@ Each file includes:
 | Topic        | Problems Solved |
 |--------------|-----------------|
 | Array        | 3               |
-| Hashing      | 5               |
+| Hashing      | 7               |
 | String       | 2               |
 | Two Pointer  | 5               |
 | Recursion    | 0               |
