@@ -32,16 +32,19 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Topic          | Problems Solved |
 |----------------|-----------------|
 | Array          | 5               |
-| greedy         | 1               |
+| greedy         | 2               |
 | Hashing        | 10              |
-| Sliding Window | 1               |
-| stack          | 2               |
+| Sliding Window | 3               |
+| stack          | 4               |
 | String         | 3               |
 | Two Pointer    | 8               |
 | Recursion      | 0               |
 | Linked List    | 0               |
 | Stack/Queue    | 0               |
-| Trees          | 0               |
+| Trees          | 0               |                                
+| Total          | 35              |
+
+
 
 
 ---
@@ -58,6 +61,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── greedy<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── JumpGame.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── JumpGameII.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── hashing<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ContainsDuplicate.java<br/>
@@ -73,9 +77,13 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── slidingWindow<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestSubstringWithoutRepeatingCharacters.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumAverageSubarrayI.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PermutationInString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── stack<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BaseballGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── DailyTemperature.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextGreaterElementI.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidParentheses.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── string<br/>
@@ -92,6 +100,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TrappingRainWater.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSumII.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidPalindrome.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|── README.md<br/>
 
 ---
 
