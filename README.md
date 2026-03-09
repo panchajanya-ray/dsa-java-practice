@@ -41,7 +41,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer    | 8               |
 | Recursion      | 0               |
 | Linked List    | 0               |
-| Stack/Queue    | 0               |
+| Queue          | 0               |
 | Trees          | 0               |                                
 | Total          | 40              |
 
@@ -81,7 +81,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── slidingWindow<br/>
-|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllAnagramsInAString.java
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllAnagramsInAString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestSubstringWithoutRepeatingCharacters.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumAverageSubarrayI.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PermutationInString.java<br/>
