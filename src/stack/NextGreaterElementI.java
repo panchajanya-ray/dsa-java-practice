@@ -11,7 +11,7 @@ import java.util.Stack;
 public class NextGreaterElementI {
 	public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         HashMap <Integer, Integer> greater = new HashMap<>();
-        Stack<Integer> stk = new Stack();
+        Stack<Integer> stk = new Stack<>();
         int [] greaterElt = new int[nums1.length];
         for(int num:nums2)
         {
