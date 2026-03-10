@@ -32,18 +32,18 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Topic          | Problems Solved |
 |----------------|-----------------|
 | Array          | 5               |
-| Binary Search  | 2               |
+| Binary Search  | 4               |
 | greedy         | 2               |
 | Hashing        | 10              |
-| Sliding Window | 4               |
-| stack          | 6               |
+| Linked List    | 1               |
+| Sliding Window | 5               |
+| stack          | 7               |
 | String         | 3               |
 | Two Pointer    | 8               |
 | Recursion      | 0               |
-| Linked List    | 0               |
 | Queue          | 0               |
 | Trees          | 0               |                                
-| Total          | 40              |
+| Total          | 45              |
 
 
 
@@ -62,6 +62,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinarySearch.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindSmallestLetterGreaterThanTarget.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SearchInRotatedSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SearchInsertPosition.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── greedy<br/>
@@ -80,13 +82,18 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SubarraySumEqualsK.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── linkedList<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ReverseLinkedList.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── slidingWindow<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllAnagramsInAString.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestRepeatingCharacterReplacement.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestSubstringWithoutRepeatingCharacters.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumAverageSubarrayI.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PermutationInString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── stack<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── AsteroidCollision.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BaseballGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── DailyTemperature.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinStack.java<br/>
