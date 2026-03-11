@@ -35,15 +35,15 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Binary Search  | 4               |
 | greedy         | 2               |
 | Hashing        | 10              |
-| Linked List    | 1               |
+| Linked List    | 2               |
 | Sliding Window | 5               |
-| stack          | 7               |
+| stack          | 8               |
 | String         | 3               |
+| trees          | 3               |
 | Two Pointer    | 8               |
 | Recursion      | 0               |
-| Queue          | 0               |
-| Trees          | 0               |                                
-| Total          | 45              |
+| Queue          | 0               |                               
+| Total          | 50              |
 
 
 
@@ -83,6 +83,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── linkedList<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ReverseLinkedList.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── slidingWindow<br/>
@@ -99,12 +100,18 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinStack.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextGreaterElementI.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextGreaterElementII.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── OnlineStockSpan.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidParentheses.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── string<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfLastWord.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── trees<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeInorderTraversal.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumDepthOfBinaryTree.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SameTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── twoPointer<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BestTimeToBuyAndSellStock.java<br/>
