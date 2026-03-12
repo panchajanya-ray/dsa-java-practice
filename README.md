@@ -32,18 +32,18 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Topic          | Problems Solved |
 |----------------|-----------------|
 | Array          | 5               |
-| Binary Search  | 4               |
+| Binary Search  | 5               |
 | greedy         | 2               |
 | Hashing        | 10              |
 | Linked List    | 2               |
-| Sliding Window | 5               |
-| stack          | 8               |
+| Sliding Window | 6               |
+| stack          | 9               |
 | String         | 3               |
-| trees          | 3               |
+| trees          | 5               |
 | Two Pointer    | 8               |
 | Recursion      | 0               |
 | Queue          | 0               |                               
-| Total          | 50              |
+| Total          | 55              |
 
 
 
@@ -62,6 +62,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinarySearch.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindPeakElement.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindSmallestLetterGreaterThanTarget.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SearchInRotatedSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SearchInsertPosition.java<br/>
@@ -91,12 +92,14 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestRepeatingCharacterReplacement.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestSubstringWithoutRepeatingCharacters.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumAverageSubarrayI.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumNumberOfVowelsInASubstringOfGivenLength.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PermutationInString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── stack<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── AsteroidCollision.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BaseballGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── DailyTemperature.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LargestRectangleInHistogram.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinStack.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextGreaterElementI.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextGreaterElementII.java<br/>
@@ -110,8 +113,10 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── trees<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeInorderTraversal.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeLevelOrderTraversal.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumDepthOfBinaryTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SameTree.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SymmetricTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── twoPointer<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BestTimeToBuyAndSellStock.java<br/>
