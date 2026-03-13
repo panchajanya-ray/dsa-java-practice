@@ -33,17 +33,18 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------|-----------------|
 | Array          | 5               |
 | Binary Search  | 5               |
-| greedy         | 2               |
+| Graph          | 2               |
+| greedy         | 3               |
 | Hashing        | 10              |
 | Linked List    | 2               |
 | Sliding Window | 6               |
 | stack          | 9               |
 | String         | 3               |
-| trees          | 5               |
+| trees          | 7               |
 | Two Pointer    | 8               |
 | Recursion      | 0               |
 | Queue          | 0               |                               
-| Total          | 55              |
+| Total          | 60              |
 
 
 
@@ -67,7 +68,12 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SearchInRotatedSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SearchInsertPosition.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── graph<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindTheTownJudge.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NumberOfIslands.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── greedy<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── GasStation.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── JumpGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── JumpGameII.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
@@ -112,9 +118,11 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── trees<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── AverageOfLevelsInBinaryTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeInorderTraversal.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeLevelOrderTraversal.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumDepthOfBinaryTree.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PathSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SameTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SymmetricTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
