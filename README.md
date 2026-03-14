@@ -29,22 +29,23 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 ## 📈 Progress Tracker
 
-| Topic          | Problems Solved |
-|----------------|-----------------|
-| Array          | 5               |
-| Binary Search  | 5               |
-| Graph          | 2               |
-| greedy         | 3               |
-| Hashing        | 10              |
-| Linked List    | 2               |
-| Sliding Window | 6               |
-| stack          | 9               |
-| String         | 3               |
-| trees          | 7               |
-| Two Pointer    | 8               |
-| Recursion      | 0               |
-| Queue          | 0               |                               
-| Total          | 60              |
+|       Topic          | Problems Solved |
+|----------------------|-----------------|
+| Array                | 5               |
+| Binary Search        | 5               |
+| Dynamic Programming  | 1               |
+| Graph                | 2               |
+| greedy               | 3               |
+| Hashing              | 10              |
+| Linked List          | 2               |
+| Sliding Window       | 6               |
+| stack                | 9               |
+| String               | 3               |
+| trees                | 7               |
+| Two Pointer          | 8               |
+| Recursion            | 0               |
+| Queue                | 0               |                               
+| Total                | 60              |
 
 
 
@@ -60,6 +61,9 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MissingNumber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RemoveDuplicatesSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSum.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── dp<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinarySearch.java<br/>
