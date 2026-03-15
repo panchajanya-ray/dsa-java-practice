@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 5               |
+| Array                | 6               |
 | Binary Search        | 5               |
 | Dynamic Programming  | 1               |
 | Graph                | 2               |
@@ -45,7 +45,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 8               |
 | Recursion            | 0               |
 | Queue                | 0               |                               
-| Total                | 60              |
+| Total                | 62              |
 
 
 
@@ -59,6 +59,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ArraySumDivisibleByK.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllNumbersDisappearedInAnArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MissingNumber.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumSubarray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RemoveDuplicatesSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
