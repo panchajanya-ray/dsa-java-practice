@@ -33,7 +33,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 6               |
 | Binary Search        | 5               |
-| Dynamic Programming  | 1               |
+| Dynamic Programming  | 2               |
 | Graph                | 2               |
 | greedy               | 3               |
 | Hashing              | 10              |
@@ -45,7 +45,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 8               |
 | Recursion            | 0               |
 | Queue                | 0               |                               
-| Total                | 62              |
+| Total                | 63              |
 
 
 
@@ -65,6 +65,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── dp<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinCostClimbingStairs.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinarySearch.java<br/>
