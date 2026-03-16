@@ -23,7 +23,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 - Linked List
 - Two Pointers
 - Sliding Window
-- Trees (Upcoming)
+- Trees
 
 ---
 
@@ -33,19 +33,20 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 6               |
 | Binary Search        | 5               |
-| Dynamic Programming  | 2               |
+| Dynamic Programming  | 4               |
 | Graph                | 2               |
 | greedy               | 3               |
 | Hashing              | 10              |
 | Linked List          | 2               |
+| Prefix Sum           | 1               |
 | Sliding Window       | 6               |
 | stack                | 9               |
 | String               | 3               |
 | trees                | 7               |
 | Two Pointer          | 8               |
 | Recursion            | 0               |
-| Queue                | 0               |                               
-| Total                | 63              |
+| Queue                | 0               | 
+| Total                | 66              |
 
 
 
@@ -64,6 +65,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── dp<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ClimbingStairs.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── HouseRobber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
@@ -98,6 +101,9 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── linkedList<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ReverseLinkedList.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── prefixSum<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ContinuousSubarraySum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── slidingWindow<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllAnagramsInAString.java<br/>
