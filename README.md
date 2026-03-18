@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 6               |
+| Array                | 7               |
 | Binary Search        | 5               |
 | Dynamic Programming  | 5               |
 | Graph                | 2               |
@@ -39,14 +39,14 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Hashing              | 10              |
 | Linked List          | 2               |
 | Prefix Sum           | 1               |
-| Sliding Window       | 6               |
+| Sliding Window       | 7               |
 | stack                | 9               |
-| String               | 3               |
+| String               | 4               |
 | trees                | 7               |
 | Two Pointer          | 8               |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 67              |
+| Total                | 70              |
 
 
 
@@ -59,6 +59,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── array<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ArraySumDivisibleByK.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllNumbersDisappearedInAnArray.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaxConsecutiveOnes.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MissingNumber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumSubarray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RemoveDuplicatesSortedArray.java<br/>
@@ -110,6 +111,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllAnagramsInAString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestRepeatingCharacterReplacement.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestSubstringWithoutRepeatingCharacters.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaxConsecutiveOnesIII.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumAverageSubarrayI.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumNumberOfVowelsInASubstringOfGivenLength.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PermutationInString.java<br/>
@@ -127,6 +129,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── string<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfLastWord.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
