@@ -1,7 +1,7 @@
 // LeetCode 509. Fibonacci Number
 // Pattern: Dynamic Programming
-// Time Complexity: O(1)
-// Space Complexity: O(1)
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 
 package dp;
 
