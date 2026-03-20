@@ -1,5 +1,5 @@
 // LeetCode 144. Binary Tree Preorder Traversal
-// Pattern: Dynamic Programming
+// Pattern: Trees, DFS
 // Time Complexity: O(N)
 // Space Complexity: O(N)
 
