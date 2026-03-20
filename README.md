@@ -33,20 +33,20 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 7               |
 | Binary Search        | 5               |
-| Dynamic Programming  | 5               |
+| Dynamic Programming  | 6               |
 | Graph                | 2               |
-| greedy               | 3               |
+| Greedy               | 3               |
 | Hashing              | 10              |
 | Linked List          | 2               |
 | Prefix Sum           | 1               |
 | Sliding Window       | 7               |
-| stack                | 9               |
+| Stack                | 9               |
 | String               | 5               |
-| trees                | 7               |
+| Trees                | 8               |
 | Two Pointer          | 8               |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 71              |
+| Total                | 73              |
 
 
 
@@ -67,6 +67,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── dp<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ClimbingStairs.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FibonacciNumber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── HouseRobber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PartitionEqualSubsetSum.java<br/>
@@ -138,6 +139,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── AverageOfLevelsInBinaryTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeInorderTraversal.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreeLevelOrderTraversal.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BinaryTreePreorderTraversal.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumDepthOfBinaryTree.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PathSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SameTree.java<br/>
