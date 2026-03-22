@@ -31,22 +31,22 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 7               |
+| Array                | 8               |
 | Binary Search        | 5               |
 | Dynamic Programming  | 7               |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 10              |
-| Linked List          | 2               |
-| Prefix Sum           | 1               |
+| Linked List          | 3               |
+| Prefix Sum           | 3               |
 | Sliding Window       | 7               |
-| Stack                | 9               |
-| String               | 5               |
+| Stack                | 10              |
+| String               | 6               |
 | Trees                | 8               |
 | Two Pointer          | 8               |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 74              |
+| Total                | 80              |
 
 
 
@@ -54,6 +54,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 ---
 
 ## 📂 Repository Structure
+
 dsa-java-practice<br/>
 |&emsp;&emsp;|── src<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── array<br/>
@@ -62,6 +63,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaxConsecutiveOnes.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MissingNumber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumSubarray.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextPermutation.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RemoveDuplicatesSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
@@ -103,11 +105,14 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── linkedList<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── InsertGreatestCommonDivisorsInLinkedList.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ReverseLinkedList.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── prefixSum<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ContinuousSubarraySum.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ProductOfArrayExceptSelf.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SumOfVariableLengthSubarrays.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── slidingWindow<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllAnagramsInAString.java<br/>
@@ -122,6 +127,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── AsteroidCollision.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BaseballGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── DailyTemperature.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── DecodeString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LargestRectangleInHistogram.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MinStack.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextGreaterElementI.java<br/>
@@ -130,11 +136,12 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidParentheses.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── string<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IntegerToRoman.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfLastWord.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RotateString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
-|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IntegerToRoman.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── trees<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── AverageOfLevelsInBinaryTree.java<br/>
