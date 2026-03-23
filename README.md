@@ -31,22 +31,23 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 8               |
+| Array                | 10              |
 | Binary Search        | 5               |
 | Dynamic Programming  | 7               |
 | Graph                | 2               |
 | Greedy               | 3               |
-| Hashing              | 10              |
+| Hashing              | 11              |
+| Heap                 | 1               |
 | Linked List          | 3               |
 | Prefix Sum           | 3               |
 | Sliding Window       | 7               |
 | Stack                | 10              |
-| String               | 6               |
+| String               | 7               |
 | Trees                | 8               |
-| Two Pointer          | 8               |
+| Two Pointer          | 9               |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 80              |
+| Total                | 86              |
 
 
 
@@ -60,10 +61,12 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── array<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ArraySumDivisibleByK.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FindAllNumbersDisappearedInAnArray.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── FirstMissingPositive.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaxConsecutiveOnes.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MissingNumber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MaximumSubarray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── NextPermutation.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── PrimeInDiagonal.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RemoveDuplicatesSortedArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoSum.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
@@ -99,10 +102,14 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IntersectionOfTwoArrays.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── IsomorphicStrings.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MajorityElement.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MajorityElementII.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RansomNote.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SingleNumber.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SubarraySumEqualsK.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ValidAnagram.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|<br/>
+|&emsp;&emsp;|&emsp;&emsp;|── heap<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── KthLargestElementInAnArray.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── linkedList<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── InsertGreatestCommonDivisorsInLinkedList.java<br/>
@@ -140,6 +147,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfLastWord.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── LongestCommonPrefix.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ReverseInteger.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── RotateString.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── TwoLetterCardGame.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
@@ -155,6 +163,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp;|&emsp;&emsp;|<br/>
 |&emsp;&emsp;|&emsp;&emsp;|── twoPointer<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BestTimeToBuyAndSellStock.java<br/>
+|&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── BoatsToSavePeople.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── ContainerWithMostWater.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── MoveZeroes.java<br/>
 |&emsp;&emsp;|&emsp;&emsp;|&emsp;&emsp;|── SquaresOfASortedArray.java<br/>
