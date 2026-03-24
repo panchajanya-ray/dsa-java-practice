@@ -1,5 +1,5 @@
 // LeetCode 922. Sort Array By Parity II
-// Pattern: Two Pointers, alternatively
+// Pattern: Two Pointers
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
