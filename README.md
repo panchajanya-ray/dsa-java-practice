@@ -38,7 +38,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 3               |
+| Linked List          | 5               |
 | Prefix Sum           | 4               |
 | Sliding Window       | 8               |
 | Stack                | 10              |
@@ -47,7 +47,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 91              |
+| Total                | 93              |
 
 
 
@@ -113,6 +113,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── linkedList<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── InsertGreatestCommonDivisorsInLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycle.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycleII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
