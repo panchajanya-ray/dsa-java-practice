@@ -1,0 +1,28 @@
+// LeetCode 1143. Longest Common Subsequence
+// Pattern: Dynamic Programming
+// Time Complexity: O(n1 * n2), n1 = text1.length(), n2 = text2.length()
+// Space Complexity: O(n2), n2 = text2.length()
+
+package dp;
+
+public class LongestCommonSubsequence {
+	public int longestCommonSubsequence(String text1, String text2) {
+        int n1 = text1.length();
+        int n2 = text2.length();
+        int dp[] = new int[n2+1];
+        for(int i=1;i<n1+1;i++)
+        {
+            int curr[] = new int[n2+1]; 
+            for(int j=1;j<n2+1;j++)
+            {
+                if(text1.charAt(i-1)==text2.charAt(j-1)) curr[j] = 1+dp[j-1];
+                else
+                {
+                    curr[j] = Math.max(curr[j-1],dp[j]);
+                }
+            }
+            dp=curr;
+        }
+        return dp[n2];
+    }
+}
