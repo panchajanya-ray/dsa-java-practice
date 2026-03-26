@@ -33,12 +33,12 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 10              |
 | Binary Search        | 5               |
-| Dynamic Programming  | 7               |
+| Dynamic Programming  | 10              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 5               |
+| Linked List          | 9               |
 | Prefix Sum           | 4               |
 | Sliding Window       | 8               |
 | Stack                | 10              |
@@ -47,7 +47,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 93              |
+| Total                | 100             |
 
 
 
@@ -72,9 +72,12 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── dp<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairs.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CoinChange.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CoinChangeII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FibonacciNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HouseRobber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HouseRobberII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TargetSum.java<br/>
@@ -112,10 +115,14 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── KthLargestElementInAnArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── linkedList<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddTwoNumbers.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddTwoNumbersII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── InsertGreatestCommonDivisorsInLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycle.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycleII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeTwoSortedLists.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MiddleOfTheLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
