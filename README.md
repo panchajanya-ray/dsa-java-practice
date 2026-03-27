@@ -31,14 +31,14 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 10              |
+| Array                | 11              |
 | Binary Search        | 5               |
-| Dynamic Programming  | 10              |
+| Dynamic Programming  | 12              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 9               |
+| Linked List          | 11              |
 | Prefix Sum           | 4               |
 | Sliding Window       | 8               |
 | Stack                | 10              |
@@ -47,7 +47,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 100             |
+| Total                | 105             |
 
 
 
@@ -60,6 +60,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |── src<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── array<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ArraySumDivisibleByK.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestContinuousIncreasingSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindAllNumbersDisappearedInAnArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstMissingPositive.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaxConsecutiveOnes.java<br/>
@@ -78,6 +79,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HouseRobber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HouseRobberII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonSubsequence.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestIncreasingSubsequence.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestIncreasingSubsequenceII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TargetSum.java<br/>
@@ -117,9 +120,11 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── linkedList<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddTwoNumbers.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddTwoNumbersII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CopyListWithRandomPointer.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── InsertGreatestCommonDivisorsInLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycle.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycleII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LRUCache.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeTwoSortedLists.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
