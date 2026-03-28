@@ -31,23 +31,23 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 11              |
+| Array                | 13              |
 | Binary Search        | 5               |
 | Dynamic Programming  | 12              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 11              |
+| Linked List          | 12              |
 | Prefix Sum           | 4               |
 | Sliding Window       | 8               |
-| Stack                | 10              |
-| String               | 7               |
+| Stack                | 11              |
+| String               | 8               |
 | Trees                | 8               |
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 105             |
+| Total                | 110             |
 
 
 
@@ -69,7 +69,9 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextPermutation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PrimeInDiagonal.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesSortedArray.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ShortestUnsortedContinuousSubarray.java<br>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TwoSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UglyNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── dp<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairs.java<br/>
@@ -127,6 +129,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LRUCache.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeTwoSortedLists.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MiddleOfTheLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PalindromeLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
@@ -151,6 +154,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BaseballGame.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DailyTemperature.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DecodeString.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── EvaluateReversePolishNotation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LargestRectangleInHistogram.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinStack.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextGreaterElementI.java<br/>
@@ -163,6 +167,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfLastWord.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonPrefix.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllAdjacentDuplicatesInString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseInteger.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RotateString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoLetterCardGame.java<br/>
