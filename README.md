@@ -38,16 +38,17 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 12              |
+| Linked List          | 14              |
+| Math                 | 1               |
 | Prefix Sum           | 4               |
 | Sliding Window       | 8               |
-| Stack                | 11              |
-| String               | 8               |
+| Stack                | 12              |
+| String               | 9               |
 | Trees                | 8               |
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 110             |
+| Total                | 115             |
 
 
 
@@ -124,14 +125,19 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddTwoNumbersII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CopyListWithRandomPointer.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── InsertGreatestCommonDivisorsInLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntersectionOfTwoLinkedLists.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycle.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LinkedListCycleII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LRUCache.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeTwoSortedLists.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PalindromeLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesFromSortedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|<br/>
+|&emsp;&emsp; |&emsp;&emsp;|── math<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── FactorialTrailingZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContinuousSubarraySum.java<br/>
@@ -150,6 +156,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── PermutationInString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── stack<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── _132Pattern.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AsteroidCollision.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BaseballGame.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DailyTemperature.java<br/>
@@ -163,6 +170,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidParentheses.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── string<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstLetterToAppearTwice.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntegerToRoman.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfLastWord.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
