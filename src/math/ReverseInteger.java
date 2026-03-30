@@ -3,7 +3,7 @@
 // Time Complexity: O(d), d= number of digits
 // Space Complexity: O(1)
 
-package string;
+package math;
 
 public class ReverseInteger {
 	public int reverse(int x) 
