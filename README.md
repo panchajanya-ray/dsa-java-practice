@@ -38,17 +38,17 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 14              |
-| Math                 | 1               |
+| Linked List          | 15              |
+| Math                 | 3               |
 | Prefix Sum           | 4               |
 | Sliding Window       | 8               |
-| Stack                | 12              |
-| String               | 9               |
+| Stack                | 13              |
+| String               | 10              |
 | Trees                | 8               |
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 115             |
+| Total                | 120             |
 
 
 
@@ -133,11 +133,14 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MiddleOfTheLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PalindromeLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesFromSortedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNodesFromLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── math<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── FactorialTrailingZeroes.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountGoodNumbers.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FactorialTrailingZeroes.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseInteger.java <br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContinuousSubarraySum.java<br/>
@@ -167,16 +170,18 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextGreaterElementI.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextGreaterElementII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── OnlineStockSpan.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveKDigits.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidParentheses.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── string<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsI.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsI.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstLetterToAppearTwice.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntegerToRoman.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfLastWord.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonPrefix.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllAdjacentDuplicatesInString.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseInteger.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RotateString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoLetterCardGame.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
