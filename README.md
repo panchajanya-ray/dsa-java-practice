@@ -31,16 +31,16 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 13              |
+| Array                | 14              |
 | Binary Search        | 5               |
 | Dynamic Programming  | 12              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 15              |
-| Math                 | 3               |
-| Prefix Sum           | 4               |
+| Linked List          | 16              |
+| Math                 | 5               |
+| Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 13              |
 | String               | 10              |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 120             |
+| Total                | 125             |
 
 
 
@@ -67,6 +67,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaxConsecutiveOnes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MissingNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaximumSubarray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeSortedArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextPermutation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PrimeInDiagonal.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesSortedArray.java<br/>
@@ -135,17 +136,21 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesFromSortedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNodesFromLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseLinkedList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedListII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── math<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountGoodNumbers.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FactorialTrailingZeroes.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── GrayCode.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HappyNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseInteger.java <br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContinuousSubarraySum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NumberOfWaysToSplitArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ProductOfArrayExceptSelf.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RangeSumQuery_Immutable.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── SumOfVariableLengthSubarrays.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── slidingWindow<br/>
