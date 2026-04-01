@@ -33,12 +33,12 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 14              |
 | Binary Search        | 5               |
-| Dynamic Programming  | 12              |
+| Dynamic Programming  | 13              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 16              |
+| Linked List          | 17              |
 | Math                 | 5               |
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 125             |
+| Total                | 127             |
 
 
 
@@ -87,7 +87,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestIncreasingSubsequenceII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TargetSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TargetSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UniquePaths.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
@@ -136,6 +137,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesFromSortedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNodesFromLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReorderList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseLinkedList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedListII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
