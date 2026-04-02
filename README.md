@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 14              |
+| Array                | 15              |
 | Binary Search        | 5               |
 | Dynamic Programming  | 13              |
 | Graph                | 2               |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 127             |
+| Total                | 128             |
 
 
 
@@ -65,9 +65,10 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindAllNumbersDisappearedInAnArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstMissingPositive.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaxConsecutiveOnes.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MissingNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaximumSubarray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MedianOfTwoSortedArrays.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeSortedArray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MissingNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextPermutation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PrimeInDiagonal.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesSortedArray.java<br/>
