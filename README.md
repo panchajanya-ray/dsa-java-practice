@@ -33,22 +33,22 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 15              |
 | Binary Search        | 5               |
-| Dynamic Programming  | 13              |
+| Dynamic Programming  | 14              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
 | Linked List          | 17              |
-| Math                 | 5               |
+| Math                 | 6               |
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 13              |
-| String               | 10              |
+| String               | 11              |
 | Trees                | 8               |
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 128             |
+| Total                | 131             |
 
 
 
@@ -88,6 +88,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestIncreasingSubsequenceII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PerfectSquares.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TargetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UniquePaths.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
@@ -147,6 +148,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FactorialTrailingZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── GrayCode.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HappyNumber.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PerfectSquares.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseInteger.java <br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
@@ -189,6 +191,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfLastWord.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonPrefix.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeStringsAlternately.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllAdjacentDuplicatesInString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RotateString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoLetterCardGame.java<br/>
