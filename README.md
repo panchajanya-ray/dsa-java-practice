@@ -38,7 +38,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Greedy               | 3               |
 | Hashing              | 11              |
 | Heap                 | 1               |
-| Linked List          | 17              |
+| Linked List          | 18              |
 | Math                 | 6               |
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 131             |
+| Total                | 132             |
 
 
 
@@ -141,7 +141,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveNthNodeFromEndOfList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReorderList.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseLinkedList.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ReverseLinkedListII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseLinkedListII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── SwapNodesInPairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── math<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountGoodNumbers.java<br/>
