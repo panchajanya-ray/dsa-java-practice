@@ -39,7 +39,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Hashing              | 11              |
 | Heap                 | 1               |
 | Linked List          | 18              |
-| Math                 | 6               |
+| Math                 | 7               |
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 13              |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 132             |
+| Total                | 133             |
 
 
 
@@ -146,6 +146,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── math<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountGoodNumbers.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DayOfTheWeek.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FactorialTrailingZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── GrayCode.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HappyNumber.java<br/>
