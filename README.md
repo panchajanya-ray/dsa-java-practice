@@ -36,7 +36,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Dynamic Programming  | 14              |
 | Graph                | 2               |
 | Greedy               | 3               |
-| Hashing              | 11              |
+| Hashing              | 12              |
 | Heap                 | 1               |
 | Linked List          | 18              |
 | Math                 | 7               |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 12              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 133             |
+| Total                | 134             |
 
 
 
@@ -118,6 +118,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MajorityElementII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RansomNote.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SingleNumber.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortCharactersByFrequency.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SubarraySumEqualsK.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidAnagram.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
