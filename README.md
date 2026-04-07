@@ -37,7 +37,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 12              |
-| Heap                 | 1               |
+| Heap                 | 2               |
 | Linked List          | 18              |
 | Math                 | 7               |
 | Prefix Sum           | 5               |
@@ -45,10 +45,10 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Stack                | 13              |
 | String               | 11              |
 | Trees                | 8               |
-| Two Pointer          | 12              |
+| Two Pointer          | 13              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 134             |
+| Total                | 136             |
 
 
 
@@ -123,7 +123,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidAnagram.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── heap<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── KthLargestElementInAnArray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── KthLargestElementInAnArray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── MergeKSortedLists.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── linkedList<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddTwoNumbers.java<br/>
@@ -217,6 +218,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RearrangeArrayElementsBySign.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortArrayByParity.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortArrayByParityII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortColors.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SquaresOfASortedArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ThreeSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TrappingRainWater.java<br/>
