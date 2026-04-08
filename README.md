@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 15              |
+| Array                | 18              |
 | Binary Search        | 5               |
 | Dynamic Programming  | 14              |
 | Graph                | 2               |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 13              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 136             |
+| Total                | 139             |
 
 
 
@@ -61,6 +61,9 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |── src<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── array<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ArraySumDivisibleByK.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BuildArrayFromPermutation.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ComputeAlternatingSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── KidsWithTheGreatestNumberOfCandies.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestContinuousIncreasingSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindAllNumbersDisappearedInAnArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstMissingPositive.java<br/>
