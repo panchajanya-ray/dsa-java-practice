@@ -1,0 +1,33 @@
+// LeetCode Problem: 718. Maximum Length of Repeated Subarray
+// Pattern: Dynamic Programming, LCS type
+// Time Complexity: O(m * n)
+// Space Complexity: O(m * n)
+
+package dp;
+
+public class MaximumLengthOfRepeatedSubarray {
+	public int findLength(int[] nums1, int[] nums2) {
+        int m = nums1.length;
+        int n = nums2.length;
+
+        if(m == 0 || n == 0) return 0;
+
+        int dp[][] = new int[m+1][n+1];
+
+        int maxLength = 0;
+        for(int i=1;i<m+1;i++)
+        {
+            for(int j=1;j<n+1;j++)
+            {
+                if(nums1[i-1] == nums2[j-1])
+                {
+                    dp[i][j] = dp[i-1][j-1]+1;
+                    maxLength = Math.max(maxLength, dp[i][j]);
+                }
+                else dp[i][j] = 0;
+            }
+        }
+
+        return maxLength;
+    }
+}
