@@ -32,7 +32,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
 | Array                | 18              |
-| Binary Search        | 5               |
+| Binary Search        | 6               |
 | Dynamic Programming  | 15              |
 | Graph                | 2               |
 | Greedy               | 3               |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 13              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 140             |
+| Total                | 141             |
 
 
 
@@ -100,6 +100,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPeakElement.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindSmallestLetterGreaterThanTarget.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReachANumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SearchInRotatedSortedArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── SearchInsertPosition.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
