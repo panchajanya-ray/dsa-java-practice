@@ -33,7 +33,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 18              |
 | Binary Search        | 6               |
-| Dynamic Programming  | 17              |
+| Dynamic Programming  | 20              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 12              |
@@ -43,12 +43,12 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 13              |
-| String               | 11              |
+| String               | 12              |
 | Trees                | 8               |
 | Two Pointer          | 13              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 143             |
+| Total                | 147             |
 
 
 
@@ -83,14 +83,17 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CoinChange.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CoinChangeII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DeleteOperationForTwoStrings.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FibonacciNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HouseRobber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HouseRobberII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestIncreasingSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestIncreasingSubsequenceII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestPalindromicSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaximumLengthOfRepeatedSubarray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumInsertionStepsToMakeAStringPalindrome.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PascalsTriangle.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PerfectSquares.java<br/>
@@ -199,6 +202,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsI.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstLetterToAppearTwice.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntegerToRoman.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IsSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfLastWord.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonPrefix.java<br/>
