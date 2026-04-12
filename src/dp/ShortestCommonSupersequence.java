@@ -1,13 +1,66 @@
 // LeetCode Problem: 1092. Shortest Common Supersequence
 // Pattern: Dynamic programming
-// Time Complexity: O((N * M * min(N, M))
-// Space Complexity: O(M * min(N, M))
+// Time Complexity: O(N * M)
+// Space Complexity: O(N * M)
  
 package dp;
 
-import java.util.Arrays;
-
 public class ShortestCommonSupersequence {
+	public static String shortestCommonSupersequence(String str1, String str2){
+        int str1Len = str1.length();
+        int str2Len = str2.length();
+
+        int dp[][] = new int[str1Len+1][str2Len+1];
+
+        for(int i=1;i<str1Len+1;i++)
+        {
+            for(int j=1;j<str2Len+1;j++)
+            {
+                if(str1.charAt(i-1)==str2.charAt(j-1)) dp[i][j] = dp[i-1][j-1]+1;
+                else dp[i][j] = Math.max(dp[i][j-1], dp[i-1][j]);
+            }
+        }
+
+        StringBuilder res = new StringBuilder();
+        int i = str1Len;
+        int j = str2Len;
+        while(i>0 && j>0)
+        {
+            if(str1.charAt(i-1)==str2.charAt(j-1))
+            {
+                res.append(str1.charAt(i-1));
+                i--;
+                j--;
+            }
+            else
+            {
+                if(dp[i][j-1] > dp[i-1][j]) 
+                {
+                    res.append(str2.charAt(j-1));
+                    j--;
+                }
+                else
+                {
+                    res.append(str1.charAt(i-1));
+                    i--;
+                }
+            }
+        }
+        while(i>0)
+        {
+            res.append(str1.charAt(i-1));
+            i--;
+        }
+        while(j>0)
+        {
+            res.append(str2.charAt(j-1));
+            j--;
+        }
+
+        return res.reverse().toString();
+    }
+	
+	/*
     public static String shortestCommonSupersequence(String str1, String str2) {
         String lcsStr = lcs(str1,str2);
         int lcsStrLen = lcsStr.length();
@@ -61,4 +114,5 @@ public class ShortestCommonSupersequence {
 
         return dp[lenS2];
     }
+    */
 }
