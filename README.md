@@ -45,10 +45,10 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Stack                | 13              |
 | String               | 12              |
 | Trees                | 8               |
-| Two Pointer          | 13              |
+| Two Pointer          | 14              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 147             |
+| Total                | 148             |
 
 
 
@@ -225,6 +225,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BestTimeToBuyAndSellStock.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BoatsToSavePeople.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContainerWithMostWater.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestPalindromicSubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MoveZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RearrangeArrayElementsBySign.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortArrayByParity.java<br/>
