@@ -43,12 +43,12 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 13              |
-| String               | 12              |
+| String               | 13              |
 | Trees                | 8               |
 | Two Pointer          | 15              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 149             |
+| Total                | 150             |
 
 
 
@@ -199,7 +199,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── string<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsI.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsI.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstLetterToAppearTwice.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntegerToRoman.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IsSubsequence.java<br/>
@@ -208,6 +208,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonPrefix.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeStringsAlternately.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllAdjacentDuplicatesInString.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseWordsInAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RotateString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoLetterCardGame.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
