@@ -33,7 +33,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 18              |
 | Binary Search        | 6               |
-| Dynamic Programming  | 20              |
+| Dynamic Programming  | 21              |
 | Graph                | 2               |
 | Greedy               | 3               |
 | Hashing              | 12              |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 15              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 150             |
+| Total                | 151             |
 
 
 
@@ -81,6 +81,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── dp<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairs.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairsII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CoinChange.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CoinChangeII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DeleteOperationForTwoStrings.java<br/>
