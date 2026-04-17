@@ -35,7 +35,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Binary Search        | 6               |
 | Dynamic Programming  | 21              |
 | Graph                | 2               |
-| Greedy               | 3               |
+| Greedy               | 4               |
 | Hashing              | 12              |
 | Heap                 | 2               |
 | Linked List          | 18              |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 15              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 152             |
+| Total                | 153             |
 
 
 
@@ -117,7 +117,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── greedy<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── GasStation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── JumpGame.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── JumpGameII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── JumpGameII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── LongestValidParentheses.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── hashing<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContainsDuplicate.java<br/>
