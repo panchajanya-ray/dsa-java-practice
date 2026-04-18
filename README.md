@@ -45,10 +45,10 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Stack                | 13              |
 | String               | 14              |
 | Trees                | 8               |
-| Two Pointer          | 15              |
+| Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 153             |
+| Total                | 154             |
 
 
 
@@ -240,7 +240,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ThreeSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TrappingRainWater.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TwoSumII.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidPalindrome.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ValidPalindrome.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidPalindromeII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp;└── README.md<br/>
 
