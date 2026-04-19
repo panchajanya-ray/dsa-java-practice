@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 18              |
+| Array                | 19              |
 | Binary Search        | 6               |
 | Dynamic Programming  | 21              |
 | Graph                | 2               |
@@ -42,13 +42,13 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Math                 | 7               |
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
-| Stack                | 13              |
+| Stack                | 14              |
 | String               | 14              |
 | Trees                | 8               |
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 154             |
+| Total                | 156             |
 
 
 
@@ -60,6 +60,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 dsa-java-practice<br/>
 |&emsp;&emsp; |── src<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── array<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddToArrayFormOfInteger.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ArraySumDivisibleByK.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BuildArrayFromPermutation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ComputeAlternatingSum.java<br/>
@@ -197,6 +198,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextGreaterElementII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── OnlineStockSpan.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveKDigits.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ValidateStackSequences.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidParentheses.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── string<br/>
