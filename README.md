@@ -43,12 +43,12 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 14              |
-| String               | 14              |
+| String               | 15              |
 | Trees                | 8               |
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 156             |
+| Total                | 157             |
 
 
 
@@ -213,6 +213,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeStringsAlternately.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllAdjacentDuplicatesInString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveOutermostParentheses.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemovingStarsFromAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseWordsInAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RotateString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoLetterCardGame.java<br/>
