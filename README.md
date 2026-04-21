@@ -44,11 +44,11 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Sliding Window       | 8               |
 | Stack                | 14              |
 | String               | 15              |
-| Trees                | 8               |
+| Trees                | 9               |
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 157             |
+| Total                | 158             |
 
 
 
@@ -223,6 +223,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinaryTreeInorderTraversal.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinaryTreeLevelOrderTraversal.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinaryTreePreorderTraversal.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumDepthOfBinaryTree.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaximumDepthOfBinaryTree.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PathSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SameTree.java<br/>
