@@ -43,12 +43,12 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 14              |
-| String               | 16              |
+| String               | 17              |
 | Trees                | 10              |
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 160             |
+| Total                | 161             |
 
 
 
@@ -211,6 +211,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LengthOfTheLongestAlphabeticalContinuousSubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestCommonPrefix.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MergeStringsAlternately.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumNumberOfSwapsToMakeTheStringBalanced.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllAdjacentDuplicatesInString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveAllOccurrencesOfASubstring.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveOutermostParentheses.java<br/>
