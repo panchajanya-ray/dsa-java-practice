@@ -33,7 +33,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 19              |
 | Binary Search        | 6               |
-| Dynamic Programming  | 21              |
+| Dynamic Programming  | 22              |
 | Graph                | 2               |
 | Greedy               | 4               |
 | Hashing              | 12              |
@@ -48,7 +48,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 161             |
+| Total                | 162             |
 
 
 
@@ -100,6 +100,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PascalsTriangle.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PerfectSquares.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ShortestCommonSupersequence.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SuperEggDrop.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TargetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UniquePaths.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
