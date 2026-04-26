@@ -39,16 +39,16 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Hashing              | 12              |
 | Heap                 | 2               |
 | Linked List          | 18              |
-| Math                 | 7               |
+| Math                 | 8               |
 | Prefix Sum           | 5               |
 | Sliding Window       | 8               |
 | Stack                | 14              |
-| String               | 17              |
+| String               | 18              |
 | Trees                | 10              |
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 162             |
+| Total                | 164             |
 
 
 
@@ -163,6 +163,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── math<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountGoodNumbers.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DayOfTheWeek.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── DivideTwoIntegers.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FactorialTrailingZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── GrayCode.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── HappyNumber.java<br/>
@@ -205,6 +206,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── string<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsI.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CheckIfStringsCanBeMadeEqualWithOperationsII.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindTheIndexOfTheFirstOccurrenceInAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstLetterToAppearTwice.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntegerToRoman.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IsSubsequence.java<br/>
