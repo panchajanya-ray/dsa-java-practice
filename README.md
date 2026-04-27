@@ -32,8 +32,9 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
 | Array                | 19              |
+| Backtracking         | 1               |
 | Binary Search        | 6               |
-| Dynamic Programming  | 22              |
+| Dynamic Programming  | 23              |
 | Graph                | 2               |
 | Greedy               | 4               |
 | Hashing              | 12              |
@@ -48,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 164             |
+| Total                | 166             |
 
 
 
@@ -80,6 +81,17 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TwoSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UglyNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
+|&emsp;&emsp; |&emsp;&emsp;|── backtracking<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── CombinationSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|<br/>
+|&emsp;&emsp; |&emsp;&emsp;|── binarySearch<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPeakElement.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindSmallestLetterGreaterThanTarget.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReachANumber.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SearchInRotatedSortedArray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── SearchInsertPosition.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── dp<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ClimbingStairsII.java<br/>
@@ -95,6 +107,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestPalindromicSubsequence.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaximumLengthOfRepeatedSubarray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumASCIIDeleteSumForTwoStrings.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumInsertionStepsToMakeAStringPalindrome.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PascalsTriangle.java<br/>
@@ -103,14 +116,6 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SuperEggDrop.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TargetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UniquePaths.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|<br/>
-|&emsp;&emsp; |&emsp;&emsp;|── binarySearch<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPeakElement.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindSmallestLetterGreaterThanTarget.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReachANumber.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SearchInRotatedSortedArray.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── SearchInsertPosition.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── graph<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindTheTownJudge.java<br/>
