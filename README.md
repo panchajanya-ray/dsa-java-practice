@@ -33,8 +33,8 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 19              |
 | Backtracking         | 1               |
-| Binary Search        | 6               |
-| Dynamic Programming  | 23              |
+| Binary Search        | 7               |
+| Dynamic Programming  | 24              |
 | Graph                | 2               |
 | Greedy               | 4               |
 | Hashing              | 12              |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 166             |
+| Total                | 168             |
 
 
 
@@ -86,6 +86,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountNegativeNumbersInASortedMatrix.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPeakElement.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindSmallestLetterGreaterThanTarget.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReachANumber.java<br/>
@@ -109,6 +110,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinCostClimbingStairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumASCIIDeleteSumForTwoStrings.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MinimumInsertionStepsToMakeAStringPalindrome.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── OnesAndZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionEqualSubsetSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PascalsTriangle.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PerfectSquares.java<br/>
