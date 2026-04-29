@@ -33,7 +33,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |----------------------|-----------------|
 | Array                | 19              |
 | Backtracking         | 1               |
-| Binary Search        | 7               |
+| Binary Search        | 8               |
 | Dynamic Programming  | 24              |
 | Graph                | 2               |
 | Greedy               | 4               |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 168             |
+| Total                | 169             |
 
 
 
@@ -87,6 +87,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CountNegativeNumbersInASortedMatrix.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindFirstAndLastPositionOfElementInSortedArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPeakElement.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindSmallestLetterGreaterThanTarget.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReachANumber.java<br/>
