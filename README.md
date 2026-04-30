@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 19              |
+| Array                | 20              |
 | Backtracking         | 1               |
 | Binary Search        | 8               |
 | Dynamic Programming  | 24              |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 169             |
+| Total                | 170             |
 
 
 
@@ -77,6 +77,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NextPermutation.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PrimeInDiagonal.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemoveDuplicatesSortedArray.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SetMismatch.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ShortestUnsortedContinuousSubarray.java<br>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── TwoSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UglyNumber.java<br/>
