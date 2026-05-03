@@ -31,7 +31,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
-| Array                | 20              |
+| Array                | 21              |
 | Backtracking         | 1               |
 | Binary Search        | 10              |
 | Dynamic Programming  | 24              |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 16              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 173             |
+| Total                | 174             |
 
 
 
@@ -64,6 +64,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── AddToArrayFormOfInteger.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ArraySumDivisibleByK.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BuildArrayFromPermutation.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CanPlaceFlowers.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ComputeAlternatingSum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── KidsWithTheGreatestNumberOfCandies.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestContinuousIncreasingSubsequence.java<br/>
