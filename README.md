@@ -46,10 +46,10 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Stack                | 14              |
 | String               | 18              |
 | Trees                | 10              |
-| Two Pointer          | 16              |
+| Two Pointer          | 17              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 174             |
+| Total                | 175             |
 
 
 
@@ -253,6 +253,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BoatsToSavePeople.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContainerWithMostWater.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestPalindromicSubstring.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaxNumberOfK_SumPairs.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MoveZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionLabels.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RearrangeArrayElementsBySign.java<br/>
