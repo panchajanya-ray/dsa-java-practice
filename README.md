@@ -42,14 +42,14 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Linked List          | 18              |
 | Math                 | 9               |
 | Prefix Sum           | 5               |
-| Sliding Window       | 8               |
+| Sliding Window       | 9               |
 | Stack                | 14              |
 | String               | 18              |
 | Trees                | 10              |
 | Two Pointer          | 17              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 175             |
+| Total                | 176             |
 
 
 
@@ -193,6 +193,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── slidingWindow<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindAllAnagramsInAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestRepeatingCharacterReplacement.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestSubarrayOf1sAfterDeletingOneElement.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── LongestSubstringWithoutRepeatingCharacters.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaxConsecutiveOnesIII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MaximumAverageSubarrayI.java<br/>
