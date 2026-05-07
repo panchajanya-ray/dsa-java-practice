@@ -32,7 +32,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 |       Topic          | Problems Solved |
 |----------------------|-----------------|
 | Array                | 21              |
-| Backtracking         | 1               |
+| Backtracking         | 2               |
 | Binary Search        | 10              |
 | Dynamic Programming  | 24              |
 | Graph                | 2               |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 17              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 178             |
+| Total                | 179             |
 
 
 
@@ -84,7 +84,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── UglyNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── backtracking<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── CombinationSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── CombinationSum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── Subsets.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── binarySearch<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── BinarySearch.java<br/>
