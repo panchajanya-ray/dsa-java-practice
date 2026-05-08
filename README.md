@@ -41,7 +41,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Heap                 | 2               |
 | Linked List          | 18              |
 | Math                 | 10              |
-| Prefix Sum           | 5               |
+| Prefix Sum           | 7               |
 | Sliding Window       | 9               |
 | Stack                | 14              |
 | String               | 19              |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 17              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 179             |
+| Total                | 181             |
 
 
 
@@ -187,6 +187,8 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContinuousSubarraySum.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPivotIndex.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── src/prefixSum/FindTheHighestAltitude.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NumberOfWaysToSplitArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ProductOfArrayExceptSelf.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RangeSumQuery_Immutable.java<br/>
