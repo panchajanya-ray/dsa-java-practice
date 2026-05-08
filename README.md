@@ -188,7 +188,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── prefixSum<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContinuousSubarraySum.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindPivotIndex.java<br/>
-|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── src/prefixSum/FindTheHighestAltitude.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindTheHighestAltitude.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── NumberOfWaysToSplitArray.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ProductOfArrayExceptSelf.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RangeSumQuery_Immutable.java<br/>
