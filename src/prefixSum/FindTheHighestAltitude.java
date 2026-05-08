@@ -1,5 +1,5 @@
 // LeetCode 1732. Find the Highest Altitude
-// Pattern: Prefix Sum, HashMap, Modulo trick
+// Pattern: Prefix Sum
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
