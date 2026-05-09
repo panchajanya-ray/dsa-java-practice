@@ -44,9 +44,9 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Prefix Sum           | 7               |
 | Sliding Window       | 9               |
 | Stack                | 14              |
-| String               | 19              |
+| String               | 20              |
 | Trees                | 10              |
-| Two Pointer          | 17              |
+| Two Pointer          | 18              |
 | Recursion            | 0               |
 | Queue                | 0               | 
 | Total                | 181             |
@@ -240,6 +240,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RemovingStarsFromAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseWordsInAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RotateString.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── StringCompression.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── TwoLetterCardGame.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── trees<br/>
@@ -263,6 +264,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── MoveZeroes.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── PartitionLabels.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RearrangeArrayElementsBySign.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ReverseVowelsOfAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortArrayByParity.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortArrayByParityII.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortColors.java<br/>
