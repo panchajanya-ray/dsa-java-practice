@@ -37,7 +37,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Dynamic Programming  | 24              |
 | Graph                | 2               |
 | Greedy               | 4               |
-| Hashing              | 12              |
+| Hashing              | 14              |
 | Heap                 | 2               |
 | Linked List          | 18              |
 | Math                 | 10              |
@@ -49,7 +49,7 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Two Pointer          | 18              |
 | Recursion            | 0               |
 | Queue                | 0               | 
-| Total                | 181             |
+| Total                | 183             |
 
 
 
@@ -137,6 +137,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── hashing<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ContainsDuplicate.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindTheDifferenceOfTwoArrays.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FirstUniqueCharacterInAString.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── GroupAnagrams.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── IntersectionOfTwoArrays.java<br/>
@@ -147,6 +148,7 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SingleNumber.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SortCharactersByFrequency.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── SubarraySumEqualsK.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── UniqueNumberOfOccurrences.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── ValidAnagram.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── heap<br/>
