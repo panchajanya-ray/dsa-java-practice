@@ -42,14 +42,14 @@ I am solving problems daily to strengthen problem-solving skills and prepare for
 | Linked List          | 18              |
 | Math                 | 10              |
 | Prefix Sum           | 7               |
+| Queue                | 1               | 
 | Sliding Window       | 9               |
 | Stack                | 14              |
 | String               | 20              |
 | Trees                | 10              |
 | Two Pointer          | 18              |
 | Recursion            | 0               |
-| Queue                | 0               | 
-| Total                | 184             |
+| Total                | 185             |
 
 
 
@@ -196,6 +196,9 @@ dsa-java-practice<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── ProductOfArrayExceptSelf.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── RangeSumQuery_Immutable.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── SumOfVariableLengthSubarrays.java<br/>
+|&emsp;&emsp; |&emsp;&emsp;|<br/>
+|&emsp;&emsp; |&emsp;&emsp;|── queue<br/>
+|&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp;└── NumberOfRecentCalls.java<br/>
 |&emsp;&emsp; |&emsp;&emsp;|<br/>
 |&emsp;&emsp; |&emsp;&emsp;|── slidingWindow<br/>
 |&emsp;&emsp; |&emsp;&emsp;|&emsp;&emsp; |── FindAllAnagramsInAString.java<br/>
